@@ -9,4 +9,7 @@ public class BranchingPractice1 {
 		// branches created
 	}
 
+	public int add() {
+		return 2 + 3;
+	}
 }
